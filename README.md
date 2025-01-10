@@ -1,10 +1,7 @@
-Need to install all dependencies.
+pip install -r requirements.txt [USE in venv]
 
 get-mrt-list.py to get all the MRT data
-
 get-shopping-mall.py to get all the shopping mall data.
-
-fyp-data-analysis.ipynb not done..
 
 In order of execution
 1. fyp-data-gathering
